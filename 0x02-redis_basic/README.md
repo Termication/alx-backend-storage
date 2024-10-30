@@ -87,7 +87,7 @@ Redis supports various data types including:
     Lists: Ordered lists of strings.
     Sets: Unordered collections of unique strings.
 
-## Redis as a Simple Cache
+# Redis as a Simple Cache
 
 Redis is often used as a cache to store frequently accessed data in memory, reducing the load on slower storage systems like databases. Here’s how you can use Redis for caching:
 ### 1. Caching a Database Query
